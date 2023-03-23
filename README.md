@@ -21,7 +21,7 @@ Node.js
 ## About Me:
 
     - Network Specialist
-    - Front-end developer (react.js)
+    - Front-end developer (react)
 <br/>
 
 ## Know about:
