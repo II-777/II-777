@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Python
 JavaScript
 React
 Node.js
@@ -20,8 +21,12 @@ Node.js
 
 ## About Me:
 
-    - Network Specialist
-    - Front-end developer (react)
+    - CSOC (Remote Video Surveillance) Team Lead
+    - Network Specialist (Cradlepoint Certified Developer)
+    - Software Developer (Python)
+    - Full Stack Developer (node.js, react)
+    - Linux Enthusiast
+
 <br/>
 
 ## Know about:
