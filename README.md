@@ -25,6 +25,7 @@ Node.js
     - Network Specialist (Cradlepoint Certified Developer)
     - Software Developer (Python)
     - Full Stack Developer (node.js, react)
+    - GoIT Academy Student (FSON77 & Python15)
     - Linux Enthusiast
 
 <br/>
