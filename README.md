@@ -52,7 +52,11 @@ Node.js
 <br/>
 
 ## Analytics:
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=II-777&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
-<img img align="center" height="180em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=II-777&theme=radical&layout=compact" />
+<a href="https://github.com/II-777">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=II-777&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
+</a>
+<a href="https://github.com/II-777">
+    <img img align="center" height="180em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=II-777&theme=radical&layout=compact" />
+</a>
 
 
