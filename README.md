@@ -50,5 +50,3 @@ Node.js
 ## Analytics:
 
 <img width="400em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=II-777&theme=radical&layout=compact" />
-
-![Profile views](https://gpvc.arturio.dev/II-777)
