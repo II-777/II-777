@@ -24,8 +24,9 @@ Node.js
     - CSOC (Remote Video Surveillance) Team Lead
     - Network Specialist (Cradlepoint Certified Developer)
     - Software Developer (Python)
-    - Full Stack Developer (react, node.js)
+    - MSc in Coumputer Science Student (\WOOLF/ University)
     - Computer Science Student at GoIT Academy (FSON77 & Python15)
+    - Full Stack Developer (react, node.js)
     - Linux Enthusiast
 
 <br/>
