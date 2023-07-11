@@ -44,18 +44,14 @@ Here are some ideas to get you started:
 
 ## Analytics:
 <a href="https://github.com/II-777">
-    <img align="center" height="180em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=II-777&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&show=reviews&theme=radical" />
+    <img align="center" height="200em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=II-777&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&show=reviews&theme=radical" />
 </a>
 <a href="https://github.com/II-777">
-    <img img align="center" height="180em" alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-777&theme=radical&layout=donut" />
+    <img img align="center" height="200em" alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-777&theme=radical&layout=donut" />
 </a>
 
-<!-- hide=contribs,prs bg_color=00000000* theme=default#gh-light-mode-only theme=dark#gh-dark-mode-only &hide=javascript,html langs_count=8--> 
+<!-- hide=contribs,prs bg_color=00000000* theme=default#gh-light-mode-only theme=dark#gh-dark-mode-only &hide=javascript,html langs_count=8 layout=donut layout=compact--> 
 
 https://github-readme-stats.vercel.app/api?username=II-777&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&show=reviews&theme=radical
 https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
