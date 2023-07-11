@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 ## Analytics:
 <a href="https://github.com/II-777">
-    <img align="center" height="200em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=II-777&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&show=reviews&theme=radical" />
+    <img align="center" height="200em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=II-777&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&show=reviews&theme=radical&custom_title=My%20Github%20Stats" />
 </a>
 <a href="https://github.com/II-777">
-    <img img align="center" height="200em" alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-777&theme=radical&layout=compact" />
+    <img img align="center" height="200em" alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-777&theme=radical&langs_count=8&layout=compact" />
 </a>
 
 <!-- hide=contribs,prs bg_color=00000000* theme=default#gh-light-mode-only theme=dark#gh-dark-mode-only &hide=javascript,html langs_count=8 layout=donut layout=compact--> 
