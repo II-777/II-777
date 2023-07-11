@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://github.com/II-777">
-    <img img align="center" height="180em" alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/walkatime/?username=II-777&theme=radical&layout=compact" />
+    <img img align="center" height="180em" alt="WakaTime card" src="https://github-readme-stats.vercel.app/api/walkatime/?username=II-777&theme=radical&layout=compact" />
 </a>
 
