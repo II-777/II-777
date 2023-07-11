@@ -51,9 +51,5 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
-<a href="https://github.com/II-777">
-    <img img align="center" height="180em" alt="WakaTime card" src="https://github-readme-stats.vercel.app/api/walkatime/?username=II-777" />
-</a>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![II-777's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=II-777&theme=radical&layout=compact)](https://github.com/II-777/II-777)
 
