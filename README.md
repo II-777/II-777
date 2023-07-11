@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
 ## Analytics:
 <a href="https://github.com/II-777">
-    <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<\p>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=II-777&custom_title="Most_Used_Languages"&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
 </a>
 <a href="https://github.com/II-777">
