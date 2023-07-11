@@ -49,7 +49,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/II-777">
     <img img align="center" height="180em" alt="Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-777&theme=radical&layout=compact" />
 </a>
-
-<br/>
-[![II-777's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=II-777&theme=radical&layout=compact)](https://github.com/II-777/II-777)
-
