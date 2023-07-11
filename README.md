@@ -50,4 +50,6 @@ Here are some ideas to get you started:
     <img img align="center" height="180em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=II-777&theme=radical&layout=compact" />
 </a>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
