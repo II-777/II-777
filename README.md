@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## About Me:
 
-    - CSOC (Remote Video Surveillance) Team Lead
-    - Network Specialist (Cradlepoint Certified Developer)
-    - Software Developer (Python)
-    - Computer Science Student at GoIT Academy (Python15)
-    - Linux Enthusiast
+- CSOC (Remote Video Surveillance) Team Lead
+- Network Specialist (Cradlepoint Certified Developer)
+- Software Developer (Python)
+- Computer Science Student at GoIT Academy (Python15)
+- Linux Enthusiast
 
 ## My Languages
 
