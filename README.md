@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## Technology Stack
-![VS Code]([https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code))
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![git](https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![github](https://camo.githubusercontent.com/b00dbca05937d3de2f9e39567dd955faedd9be2ed6941d610a8fbb4f4f4a76f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d666666)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
