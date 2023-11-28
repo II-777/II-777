@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - CSOC (Remote Video Surveillance) Team Lead
 - Network Specialist (Cradlepoint Certified Developer)
-- UAV Engineer (Prometheus)
+- UAV Engineer (Prometheus Certification)
 - Software Developer (Python)
 - Computer Science Student at GoIT Academy (Python15)
 - Linux Enthusiast
