@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-%23000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAWElEQVR42mP8z8AARbCCnzhAzFjwwFOJYZhG1FzwAC6KYQmECAI0dQAAkrEBtEEGxAAAAAElFTkSuQmCC&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Web Frameworks
