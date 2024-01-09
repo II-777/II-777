@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Vim](https://img.shields.io/badge/-Vim-1A8C73?style=for-the-badge&logo=vim)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
