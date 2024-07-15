@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About Me:
 
-- CSOC (Remote Video Surveillance) Team LeadGk
+- CSOC (Remote Video Surveillance) Team Lead
 - Network Specialist (Cradlepoint Certified Developer)
 - UAV Engineer (Prometheus Certification)
 - Software Developer (Python)
