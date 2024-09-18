@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-%23FF6E14.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </div>
 
 ### Tools:
@@ -36,10 +38,12 @@
   <img src="https://img.shields.io/badge/-Vim-1A8C73?style=for-the-badge&logo=vim" alt="Vim"/>
   <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/Jinja-%23000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAWElEQVR42mP8z8AARbCCnzhAzFjwwFOJYZhG1FzwAC6KYQmECAI0dQAAkrEBtEEGxAAAAAElFTkSuQmCC&logoColor=white" alt="Jinja"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Swagger-%232496ED.svg?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"/>
 </div>
 
 ### Databases:
