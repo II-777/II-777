@@ -68,5 +68,5 @@
 </div>
 
 <div align="center">
-    <img align="center" height="205em" alt="Matrix Cat" src="https://github.com/II-777/II-777/blob/main/img/matrix-cat.webp" />
+    <img align="center" height="205em" alt="II-777" src="https://github.com/II-777/II-777/blob/main/img/II-777.gif" />
 </div>
