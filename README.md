@@ -85,46 +85,82 @@
 ## Portfolio
 
 ### [Magic 8-Ball](https://github.com/II-777/frontend-magic-8-ball)
+<div align="center">
+  <a href="https://github.com/II-777/frontend-magic-8-ball"><img src="https://github.com/II-777/frontend-magic-8-ball/raw/main/preview.jpg" alt="Magic 8-Ball preview" width="600"/></a>
+</div>
+
 Have a question? We got answers! 😁 [Live](https://frontend-magic-8-ball.vercel.app/)
 
 **Stack:** React, Vite, CSS Modules. Local state, a CSS shake animation, and a random answer drawn from affirmative, neutral, and negative sets. Deployed on Vercel.
 
 ### [Biolab Goose](https://github.com/II-777/python-biolab-goose)
-Pygame game. [Preview](https://github.com/II-777/python-biolab-goose/raw/main/homework-03.gif)
+<div align="center">
+  <a href="https://github.com/II-777/python-biolab-goose"><img src="https://github.com/II-777/python-biolab-goose/raw/main/homework-03.gif" alt="Biolab Goose preview" width="600"/></a>
+</div>
+
+Pygame game.
 
 **Stack:** Python, Pygame. A 60 FPS game loop, frame-based sprite and background animation, rectangle collision, and timers that spawn enemies and bonuses.
 
 ### [Mini Game](https://github.com/II-777/python-mini-game)
-Dodge enemies and collect bonuses. [Preview](https://github.com/II-777/python-mini-game/raw/main/homework-02.gif)
+<div align="center">
+  <a href="https://github.com/II-777/python-mini-game"><img src="https://github.com/II-777/python-mini-game/raw/main/homework-02.gif" alt="Mini Game preview" width="600"/></a>
+</div>
+
+Dodge enemies and collect bonuses.
 
 **Stack:** Python, Pygame. A game loop, colored surfaces, rectangle collision, screen-edge clamping, and timers that spawn enemies and bonuses.
 
 ### [Movie search](https://github.com/II-777/frontend-movie-search)
+<div align="center">
+  <a href="https://github.com/II-777/frontend-movie-search"><img src="https://github.com/II-777/frontend-movie-search/raw/main/preview.jpg" alt="Movie search preview" width="600"/></a>
+</div>
+
 Movie search with cast and reviews. [Live](https://goit-react-hw-05-three-rho.vercel.app/)
 
 **Stack:** React, Vite, React Router, CSS Modules, Axios, Formik, react-hot-toast. Lazy-loaded routes, nested cast and review pages, and search against the TMDB API. Deployed on Vercel.
 
 ### [Photo search](https://github.com/II-777/frontend-photo-search)
+<div align="center">
+  <a href="https://github.com/II-777/frontend-photo-search"><img src="https://github.com/II-777/frontend-photo-search/raw/main/preview.jpg" alt="Photo search preview" width="600"/></a>
+</div>
+
 Image search with a modal gallery. [Live](https://goit-react-hw-04-self-iota.vercel.app/)
 
 **Stack:** React, Vite, CSS Modules, Axios, Formik, react-modal, react-hot-toast. Search against the Unsplash API, paged results with a load-more button, and a modal lightbox. Deployed on Vercel.
 
 ### [Papyrus](https://github.com/II-777/frontend-papyrus)
+<div align="center">
+  <a href="https://github.com/II-777/frontend-papyrus"><img src="https://github.com/II-777/frontend-papyrus/raw/main/preview.jpg" alt="Papyrus preview" width="600"/></a>
+</div>
+
 Bookstore front end, Team 8. [Live](https://ii-777.github.io/frontend-papyrus/index.html)
 
 **Stack:** HTML, Tailwind CSS, JavaScript, Parcel, Axios, Firebase Authentication, Firebase Realtime Database, basicLightbox, Notiflix. A book catalog from a REST API, email sign-in, a shopping list in localStorage, and a saved light/dark theme. Deployed with GitHub Pages.
 
 ### [Skiff Systems](https://github.com/II-777/skiffsystems-website)
+<div align="center">
+  <a href="https://github.com/II-777/skiffsystems-website"><img src="https://github.com/II-777/skiffsystems-website/raw/main/preview.jpg" alt="Skiff Systems preview" width="600"/></a>
+</div>
+
 Company site. [Live](https://skiffsystems-website.pages.dev)
 
 **Stack:** React, Vite, React Router, CSS Modules, clsx. Hash routing, lazy-loaded pages, and a responsive header with a mobile menu. Deployed on Cloudflare Pages.
 
 ### [WebStudio](https://github.com/II-777/frontend-webstudio)
+<div align="center">
+  <a href="https://github.com/II-777/frontend-webstudio"><img src="https://github.com/II-777/frontend-webstudio/raw/main/preview.jpg" alt="WebStudio preview" width="600"/></a>
+</div>
+
 Business landing page with a modal and a mobile menu. [Live](https://ii-777.github.io/frontend-webstudio/index.html)
 
 **Stack:** HTML, CSS, JavaScript. Responsive flex layout, a modal order form, and a mobile menu that locks body scroll. Deployed with GitHub Pages.
 
 ### [CatHome](https://github.com/II-777/frontend-cathome)
+<div align="center">
+  <a href="https://github.com/II-777/frontend-cathome"><img src="https://github.com/II-777/frontend-cathome/raw/main/preview.jpg" alt="CatHome preview" width="600"/></a>
+</div>
+
 CSS Grid page for a cat shelter. [Live](https://goit-css-grids-project.vercel.app/)
 
 **Stack:** HTML, CSS, Google Fonts. CSS Grid layout, responsive picture sources, and a photo gallery. Deployed on Vercel.
